@@ -62,7 +62,8 @@ p {
 
 #showcase .bg-image{
     position: absolute;
-    background: #f4c430 url("images/cover-new.jpeg");
+    /* background: #f4c430 url("images/cover-new.jpeg"); */
+    background: #FBE489;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
